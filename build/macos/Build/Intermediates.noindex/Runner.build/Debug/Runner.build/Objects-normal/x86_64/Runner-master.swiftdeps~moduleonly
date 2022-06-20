@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "0601f5269075dfd77db7c219ee1bf90e"
+build_time: [1655718794, 494339000]
+inputs:
+  "/Users/cybodoc/StudioProjects/quizflu/macos/Runner/MainFlutterWindow.swift": [1645606997, 768342130]
+  "/Users/cybodoc/StudioProjects/quizflu/macos/Runner/AppDelegate.swift": [1645606997, 762531609]
+  "/Users/cybodoc/StudioProjects/quizflu/macos/Flutter/GeneratedPluginRegistrant.swift": [1655718775, 964842362]
